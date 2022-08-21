@@ -24,7 +24,7 @@ const Contact = () => {
       </div>
 
       <center>
-        <p id="emailPhone"><a href="tel:+918120138215">📞+91-8120138215</a>  <a href="mailto:shivanshuchobey5998@gmail.com" target="_blank" id="email"> 📧 shivanshuchobey5998@gmail.com</a></p>
+        <p id="emailPhone"><a href="tel:+918120138215">📞+91 8120138215</a>  <a href="mailto:shivanshuchobey5998@gmail.com" target="_blank" id="email"> 📧 shivanshuchobey5998@gmail.com</a></p>
         <hr className="style-f" />
       </center>
 
