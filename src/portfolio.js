@@ -136,7 +136,7 @@ export const details = [
     Interactive User Interface,
     Access API data without buffering`,
     tech: `Tech Stack: HTML | CSS | JavaScript`,
-    img: "https://github.com/Shivanshu5998s/Images/blob/main/Expedia%20Home.png?raw=true",
+    img: "https://miro.medium.com/max/828/1*CwL3wDAMDTvQ2yfYQoigng.webp",
     github: "https://github.com/Shivanshu5998s/expedia",
     link: "https://expedia-web-clone.netlify.app/"
   },
