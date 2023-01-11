@@ -23,7 +23,8 @@ export const main = {
 // AboutMe
 export const aboutme = {
   imgLink:
-    "https://github.com/Shivanshu5998s/Images/blob/main/Shivanshu%20Chobey-modified.png?raw=true",
+//     "https://github.com/Shivanshu5998s/Images/blob/main/Shivanshu%20Chobey-modified.png?raw=true",
+  "https://drive.google.com/file/d/19y03QTP2TQXHh2C4ZWHC8e3EpA1L_V3i/view?usp=share_link",
   p1: "Hey, My name is Shivanshu Chobey. I have completed my Bachelor of Engineering from Lakshmi Narain College of Technology, Indore (M.P.).",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
   p3: "Apart from coding I also like photography 📸, cooking 👨‍🍳 and riding 🏍️, Playing online Games.",
