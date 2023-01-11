@@ -20,7 +20,7 @@ function Aboutme() {
                 className="aboutme-img"
                 height="auto"
                 width="300"
-                src={aboutme.imgLink}
+                src="https://drive.google.com/file/d/19y03QTP2TQXHh2C4ZWHC8e3EpA1L_V3i/view?usp=share_link"
                 alt="profile pic"
               />
             </div>
